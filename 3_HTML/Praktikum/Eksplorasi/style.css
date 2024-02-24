@@ -1,0 +1,29 @@
+.container {
+  padding-right: 15px;
+  padding-left: 82px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.pt {
+  padding-top: 116px;
+}
+
+.btn {
+  width: 139.36px;
+  height: 45px;
+  padding: 9px 28px;
+  border: 1px solid;
+  border-radius: 1px;
+  background: transparent;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.btn:hover {
+  background: #000;
+  color: #fff;
+}
+
+.d-flex {
+  display: flex;
+}
