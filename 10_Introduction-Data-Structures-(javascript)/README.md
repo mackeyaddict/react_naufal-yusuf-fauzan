@@ -1,0 +1,7 @@
+# Resume Materi 10 Introduction Data Structure
+
+1. Memilih operasi yang tepat merupakan hal penting dalam pengembangan aplikasi. Salah satu faktor yang perlu dipertimbangkan adalah performa. Ketiga operasi pada array dan set memiliki tingkat efisiensi yang sama yaitu: Reading 1 step Searching N steps, dan Deletion N steps. Dapat dilihat bahwa Reading memiliki efisiensi yang lebih bagus.
+
+2. Pada Array dan Set terdapat perbedaan efisiensi. Pada array, skenario terbaik adalah hanya memerlukan 1 langkah untuk operasi penyisipan, sementara pada set, operasi ini bisa memakan waktu hingga N + 1 langkah. Hal ini disebabkan oleh kebutuhan untuk memeriksa keberadaan duplikat sebelum elemen baru dapat disisipkan
+
+3. Dalam memilih antara array atau set, penting untuk mempertimbangkan kebutuhan spesifik dari aplikasi yang akan menggunakan struktur data tersebut. Jika aplikasi memerlukan struktur data yang bebas dari duplikat, meskipun mungkin sedikit lebih lambat dalam operasi penyisipan, maka set bisa menjadi pilihan yang tepat. Di sisi lain, jika aplikasi tidak memerlukan pemeriksaan duplikat atau jika proses tersebut dapat ditangani dengan cara lain yang lebih efisien, maka penggunaan array mungkin lebih disarankan.
