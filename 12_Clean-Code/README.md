@@ -1,0 +1,7 @@
+# Resume Materi Clean Code
+
+1. Dengan clean code programmer dapat mudah membaca, memahami, dan mengubah kode program. Ketika terlibat dalam kolaborasi developer lainnya dapat dengan mudah memahami kode kita sehingga work collaboration menjadi cepat, efektif, dan efisien. Lalu ketika kita membuat sebuah fitur, partner kolaborasi kita akan mengetahui apa yang dapat dilakukan fitur tersebut dengan mudah akibat clean code. Dan dengan clean code developing aplikasi juga akan terasa cepat.
+
+2. Gunakan extension untuk membantu clean code seperti Prettier, ESLint, dan Formatter agar memudahkan dalam menjaga konsistensi dan kualitas kode. Dengan menggunakan alat-alat ini, kita dapat dengan mudah mengatur aturan formatting, mendeteksi dan memperbaiki kesalahan sintaks, serta menjaga konsistensi gaya kode di seluruh proyek.
+
+3. Prinsip clean code. Yang pertama adalah KISS (Keep It So Simple), yang mendorong untuk membuat kode se-sederhana mungkin tanpa mengorbankan fungsionalitas. Prinsip ini mengajarkan bahwa semakin sederhana kode, semakin mudah untuk dipahami, dikelola, dan diubah oleh pengembang yang lain. Lalu DRY (Don't Repeat Yourself), yang menekankan pentingnya untuk menghindari duplikasi kode. Dengan prinsip ini, pengembang diharapkan untuk mengekstrak logika yang serupa ke dalam fungsi atau kelas terpisah, sehingga kode menjadi lebih mudah dipelihara dan diperbarui.
