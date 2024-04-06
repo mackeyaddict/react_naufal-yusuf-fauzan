@@ -1,4 +1,3 @@
-// Form.js
 import { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { v4 as uuidv4 } from 'uuid';
@@ -7,8 +6,7 @@ import { addFormData } from '../../store/slice/form.slice';
 
 export default function Form() {
   const dispatch = useDispatch();
-  
-  // Define form state
+
   const [formState, setFormState] = useState({
     productName: '',
     productCategory: '',
@@ -16,14 +14,12 @@ export default function Form() {
     productDesc: '',
     productPrice: '',
   });
-  
-  // Handle input change
+
   const handleInputChange = (e) => {
     const { id, value } = e.target;
     setFormState({ ...formState, [id]: value });
   };
   
-  // Handle radio button change
   const handleRadioChange = (e) => {
     const { id } = e.target;
     setFormState({ ...formState, productFreshness: id });
