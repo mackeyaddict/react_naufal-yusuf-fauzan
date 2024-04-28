@@ -1,0 +1,3 @@
+# Chatbot Coffee
+
+Meet Naufal, your go-to coffee guru in the form of a chatbot. Naufal is your ultimate source for all things coffee-related. Whether you're seeking information about different brewing methods, the origins of various coffee beans, or tips for creating the perfect cup of joe, Naufal has got you covered. Just ask away, and Naufal will serve up the knowledge you crave with a dash of caffeine-infused expertise.
